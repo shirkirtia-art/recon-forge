@@ -42,8 +42,8 @@ Make sure these are on your `PATH`:
 ## Install
 
 ```bash
-git clone https://github.com/shirkirtia-art/htww
-cd htww
+git clone https://github.com/shirkirtia-art/recon-forge
+cd recon-forge
 cargo install --path .
 ```
 
