@@ -45,6 +45,7 @@ Make sure these are on your `PATH`:
 git clone https://github.com/shirkirtia-art/recon-forge
 cd recon-forge
 cargo install --path .
+~/.cargo/bin/recon-forge
 ```
 
 Run from anywhere after that:
