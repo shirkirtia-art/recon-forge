@@ -10,7 +10,7 @@ const HTTPX_OUTPUT: &str = "httpx_raw.jsonl";
 const LIVE_URLS: &str = "live_urls.txt";
 const WHATWEB_RESULTS: &str = "whatweb_results.json";
 const WEBANALYZE_OUTPUT: &str = "webanalyze.json";
-const FINAL_OUTPUT: &str = "HTWW_v2.json";
+const FINAL_OUTPUT: &str = "HTWW.json";
 const STATS_OUTPUT: &str = "HTWW_stats.json";
 
 #[derive(Debug, Serialize, Deserialize)]
